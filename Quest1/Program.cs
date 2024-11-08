@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using EverybodyCodes;
 string? army = Console.ReadLine();
-int result = 0;
+int result = Quest1.
 if(army != null && army.Length>0)
 {
     foreach (char creature in army.ToCharArray())
